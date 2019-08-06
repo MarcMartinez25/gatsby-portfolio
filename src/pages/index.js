@@ -80,13 +80,13 @@ class Index extends React.Component {
               </li>
               <li>
                 <span className="icon major style1 fa-terminal"></span>
-                <h3><a href='https://github.com/MarcMartinez25/Journal-App'>Journal App</a></h3>
-                <p>A journal app that you can run in the command line. It is built in python</p>
+                <h3><a href='https://infallible-blackwell-eb116f.netlify.com/'>Line Charge Application</a></h3>
+                <p>This web app allows you to input different types of transactions, like a bank statement.</p>
               </li>
               <li>
                 <span className="icon major style1 fa-terminal"></span>
-                <h3><a href='https://github.com/MarcMartinez25/DungeonGame'>Python Dungeon Game</a></h3>
-                <p>This is a game that I learned to code in python</p>
+                <h3><a href='https://github.com/MarcMartinez25/Journal-App'>Journal App</a></h3>
+                <p>A journal app that you can run in the command line. It is built in python</p>
               </li>
               <li>
                 <span className="icon major style1 fa-terminal"></span>
@@ -104,10 +104,11 @@ class Index extends React.Component {
           <section id="cta" className="main special">
             <header className="major">
               <h2>Let's Talk</h2>
-              <p>Below is my email and links to various social platforms that I am on daily!<br /> <br />
-              If you would like to talk about building a website, email is the prefered method <br /> <br />
-              If you would like to talk about hiring, LinkedIn is the prefered method <br /> <br />
-              If you would like to grab a beer and talk shop, send me a message through Twitter!</p>
+              <p>
+                Below is my email and links to various social platforms that I am on daily!<br /> <br />
+                If you would like to talk about building a website, working on project together, 
+                or if you just want to talk shop, send me a message and I'll do my best to get back to you!
+              </p>
             </header>
           </section>
 

@@ -8,7 +8,7 @@ const Footer = (props) => (
         <section>
             <h2>Social</h2>
             <dl className="alt">
-                <dt>Address</dt>
+                <dt>Location</dt>
                 <dd>Oklahoma City, OK </dd>
                 <dt>Email</dt>
                 <dd>martinezma025@gmail.com</dd>
