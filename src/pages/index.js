@@ -90,8 +90,8 @@ class Index extends React.Component {
               </li>
               <li>
                 <span className="icon major style1 fa-terminal"></span>
-                <h3><a href='https://github.com/MarcMartinez25/SpinAndWin'>Spin And Win Game</a></h3>
-                <p>A simple game I made in java code that simulates a slot machine</p>
+                <h3><a href='https://frosty-noether-31d7f9.netlify.com'>Vue Todo List</a></h3>
+                <p>The project is a simple todo list that allows you to: add todos, mark todos as completed, delete todos</p>
               </li>
             </ul>
             <footer className="major">
