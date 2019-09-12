@@ -49,8 +49,8 @@ class Index extends React.Component {
                 </header>
                 <p>I'm Marco and I have been doing web development and other development for the 
                   better part of three years now. I have worked in programming languages such as 
-                  Python, Java, C, JavaScript, and many more! I also have experience in 
-                  frameworks such as React. <br />When I am not doing computer related work, 
+                  Python, Java, C#, JavaScript, and many more! I also have experience in 
+                  frameworks such as React and Vue. <br />When I am not doing computer related work, 
                   you can find me out and about doing various activities such as climbing, 
                   hiking, playing the blues, and finding new hobbies!</p>
               </div>
