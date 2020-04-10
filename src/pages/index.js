@@ -47,12 +47,13 @@ class Index extends React.Component {
                 <header className="major">
                   <h2>About Me</h2>
                 </header>
-                <p>I'm Marco and I have been doing web development and other development for the 
-                  better part of three years now. I have worked in programming languages such as 
-                  Python, Java, C#, JavaScript, and many more! I also have experience in 
-                  frameworks such as React and Vue. <br />When I am not doing computer related work, 
+                <p> Hi I'm Marco and I have been doing software development for three years as a student
+                  and one year professionally. I love programming, it's great!! My favorite programming 
+                  languages are Python, JavaScript, and C#! I have also worked with Java and a bit of Dart.
+                  I am a big fan of Vue, but I also dabble in React and bit of Angular.
+                  <br />When I am not doing computer related work, 
                   you can find me out and about doing various activities such as climbing, 
-                  hiking, playing the blues, and finding new hobbies!</p>
+                  hiking, playing the blues, and making coffee!</p>
               </div>
               <span className="image"><img src={picme} alt="" /></span>
             </div>
@@ -107,7 +108,7 @@ class Index extends React.Component {
               <p>
                 Below is my email and links to various social platforms that I am on daily!<br /> <br />
                 If you would like to talk about building a website, working on project together, 
-                or if you just want to talk shop, send me a message and I'll do my best to get back to you!
+                or if you just want to talk shop and drink coffee, send me a message and I'll do my best to get back to you!
               </p>
             </header>
           </section>
